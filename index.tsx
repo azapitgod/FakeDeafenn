@@ -9,7 +9,7 @@ const MediaEngineActions = findByPropsLazy("toggleSelfMute");
 const SelectedChannelStore = findStoreLazy("SelectedChannelStore");
 
 const PLUGIN_VERSION = "1.0.0";
-const GITHUB_REPO = "BlockTol/Discord-Fake-Deafen";
+const GITHUB_REPO = "azapitgod/FakeDeafenn";
 const UPDATE_CHECK_URL = `https://api.github.com/repos/${GITHUB_REPO}/releases/latest`;
 const GITHUB_RELEASE_URL = `https://github.com/${GITHUB_REPO}/releases/latest`;
 const UPDATE_CHECK_ENABLED = true;
