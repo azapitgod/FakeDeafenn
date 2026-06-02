@@ -25,6 +25,6 @@ Bu Discord Eklentisini Kullanarak Sesli Odada İken Sağırlaştırılmış Göz
 ## Yazar
 
 - **Azap** Tarafından Oluşturuldu
-- [Discord İsim](azapitgod)
+- [Discordum](http://discord.com/users/1479564510862901248)
 
 ---
